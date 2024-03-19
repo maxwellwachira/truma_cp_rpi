@@ -2,6 +2,8 @@
 
 ## Prerequisites
 - [Python3](https://www.python.org/)
+- [RaspberryPi UART enabled](https://www.electronicwings.com/raspberry-pi/raspberry-pi-uart-communication-using-python-and-c#header2)
+- UART to LIN BUS Converter
 
 
 ## Directory-Structure
@@ -42,6 +44,10 @@
     ```
 
 ## Usage
+
+### Connection
+TX - GPIO 14
+RX - GPIO 15
 
 ### Update .env
 
