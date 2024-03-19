@@ -24,7 +24,7 @@
 1. clone the repository and navigate to the project directory
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/maxwellwachira/truma_cp_rpi.git
     ```
     ```bash
     cd truma_cp_rpi
