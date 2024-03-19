@@ -46,8 +46,8 @@
 ## Usage
 
 ### Connection
-TX - GPIO 14
-RX - GPIO 15
+1. TX - GPIO14
+2. RX - GPIO15
 
 ### Update .env
 
